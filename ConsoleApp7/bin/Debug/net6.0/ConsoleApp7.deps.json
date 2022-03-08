@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp7/1.0.0": {
+        "dependencies": {
+          "köpabil": "1.0.0",
+          "personal": "1.0.0",
+          "pilmenyservice": "1.0.0",
+          "säljabil": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp7.dll": {}
+        }
+      },
+      "köpabil/1.0.0": {
+        "runtime": {
+          "köpabil.dll": {}
+        }
+      },
+      "personal/1.0.0": {
+        "runtime": {
+          "personal.dll": {}
+        }
+      },
+      "pilmenyservice/1.0.0": {
+        "runtime": {
+          "pilmenyservice.dll": {}
+        }
+      },
+      "säljabil/1.0.0": {
+        "runtime": {
+          "säljabil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "köpabil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "personal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pilmenyservice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "säljabil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
