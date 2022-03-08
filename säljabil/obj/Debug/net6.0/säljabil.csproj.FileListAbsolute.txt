@@ -1,0 +1,15 @@
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\bin\Debug\net6.0\säljabil.exe
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\bin\Debug\net6.0\säljabil.deps.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\bin\Debug\net6.0\säljabil.runtimeconfig.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\bin\Debug\net6.0\säljabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\bin\Debug\net6.0\ref\säljabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\bin\Debug\net6.0\säljabil.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.csproj.AssemblyReference.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.AssemblyInfoInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.AssemblyInfo.cs
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.csproj.CoreCompileInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\ref\säljabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\säljabil\obj\Debug\net6.0\säljabil.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\bin\Debug\net6.0\personal.exe
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\bin\Debug\net6.0\personal.deps.json
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\bin\Debug\net6.0\personal.runtimeconfig.json
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\bin\Debug\net6.0\personal.dll
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\bin\Debug\net6.0\ref\personal.dll
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\bin\Debug\net6.0\personal.pdb
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.csproj.AssemblyReference.cache
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.AssemblyInfoInputs.cache
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.AssemblyInfo.cs
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.dll
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\ref\personal.dll
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.pdb
+C:\Users\Kevin Swärdh\source\repos\ConsoleApp7\personal\obj\Debug\net6.0\personal.genruntimeconfig.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\bin\Debug\net6.0\personal.exe
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\bin\Debug\net6.0\personal.deps.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\bin\Debug\net6.0\personal.runtimeconfig.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\bin\Debug\net6.0\personal.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\bin\Debug\net6.0\ref\personal.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\bin\Debug\net6.0\personal.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.csproj.AssemblyReference.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.AssemblyInfoInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.AssemblyInfo.cs
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.csproj.CoreCompileInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\ref\personal.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\personal\obj\Debug\net6.0\personal.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.csproj.AssemblyReference.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.AssemblyInfoInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.AssemblyInfo.cs
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.csproj.CoreCompileInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\bin\Debug\net6.0\köpabil.exe
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\bin\Debug\net6.0\köpabil.deps.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\bin\Debug\net6.0\köpabil.runtimeconfig.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\bin\Debug\net6.0\köpabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\bin\Debug\net6.0\ref\köpabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\bin\Debug\net6.0\köpabil.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\ref\köpabil.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\köpabil\obj\Debug\net6.0\köpabil.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\bin\Debug\net6.0\pilmenyservice.exe
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\bin\Debug\net6.0\pilmenyservice.deps.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\bin\Debug\net6.0\pilmenyservice.runtimeconfig.json
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\bin\Debug\net6.0\pilmenyservice.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\bin\Debug\net6.0\ref\pilmenyservice.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\bin\Debug\net6.0\pilmenyservice.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.csproj.AssemblyReference.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.AssemblyInfoInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.AssemblyInfo.cs
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.csproj.CoreCompileInputs.cache
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\ref\pilmenyservice.dll
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.pdb
+D:\desktop\grunderna-i-programmering-main\ConsoleApp7\pilmenyservice\obj\Debug\net6.0\pilmenyservice.genruntimeconfig.cache
