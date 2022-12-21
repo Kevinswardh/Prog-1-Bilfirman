@@ -1,4 +1,4 @@
-# Kombinerat-program
+# Slutprogram programmering 1
 
 Personal lösenord: personal/personal
 
